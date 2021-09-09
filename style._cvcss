@@ -1,0 +1,42 @@
+body{
+  background-color: #e3f2fd;
+}
+
+.navbar{
+  background-color: #FBFBFB;
+}
+ li{
+  display: inline-block;
+  margin:10px;
+  border-width: 20px;
+  border-color: red;
+
+}
+a{
+  font-size: 1.2em;
+}
+ul{
+  padding-left: 0;
+}
+
+img{
+   height: 50%;
+   width:100%;
+   /* margin:10px; */
+
+}
+h1{
+  text-align: center;
+
+}
+p{
+  padding:10px;
+}
+li:hover{
+
+  border-bottom: 1px solid black;
+  cursor:pointer;
+}
+a:hover{
+  font-size: 10px;
+}
